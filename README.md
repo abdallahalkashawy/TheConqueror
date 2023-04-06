@@ -2,7 +2,6 @@
 
 ## Introduction
 
-#
 
 `a single player turn-based empire building game. A player initially chooses one historical city to start his empire with. The goal is to conquer the whole world by taking control over every other city under a certain amount of turns. In order to achieve this goal, the player have the option of building various types of building in any city he has control over and also build armies in order to conquer other cities.`
 
@@ -14,13 +13,11 @@
 
 ## Conquering a city
 
-#
 
 `Each city has an army that defends it from conquerors. The player needs to build a powerful army and defeat the defending army in order to take control over the city. Once the attacking army reaches the city, it can either lay siege on the target city trying to starve them out or directly attack the defending army. If the player chooses to besiege the city, the defending army will gradually lose soldiers each turn the city is under siege. However, the player can only besiege a city for a max of three turns. During these three turns, the player can choose to break the siege and leave the city or directly fight the defending army. If these three turns passed, the player has to fight the defending army in a decisive battle. When the player engages the defending army in a battle, he can choose to either automatically resolves the battle or he manually commands his units during it. In auto resolve mode, a random unit from the attacking army will attack another random unit from the defending army then, same action happens but this time the defending army will be the attacker and so on till one of the two armies is completely destroyed. In all cases, only the attacked unit receives damage and have some of its soldiers lost during the attack. The attacking unit does not receive any damage in the process. In the manual mode, the battle starts by the player choosing one of his units to attack another unit in the defending army followed by a random unit from the defending army attack another random unit from the player’s army and so on till one of the two armies is destroyed. Once the city’s defending army is defeated, the player takes control over it and can build any building or recruit any unit inside it.`
 
 ## Available resources
 
-#
 
 Throughout his journey of conquering the world, the player has two major resources that he can spend in order to achieve his goal namely gold and food.
 
@@ -29,7 +26,6 @@ Throughout his journey of conquering the world, the player has two major resourc
 
 ## Buildings
 
-#
 
 `The player can build multiple types of buildings to help him achieving his goal of conquering the world. There are two types of buildings, economic and military. Economic buildings help the player build his economy as well as provide enough food supplies for his army. Military buildings are the ones that the player will use to build his armies by recruiting different types of units. Buildings can be upgraded to enhance their effects. The higher the level of the building, the better its outcome. Each turn, the player can only do one action per building. Either building it, upgrading it or recruit units from it (for military buildings). Military buildings also have a max number of units that can be recruited from them per turn.`
 
